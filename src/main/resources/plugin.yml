@@ -1,0 +1,7 @@
+name: AbilitiesPlugin
+version: '${project.version}'
+main: org.wrecktales.abilitiesplugin.AbilityMain
+api-version: '1.20'
+commands:
+  abilitymenu:
+    description: /abilitymenu
